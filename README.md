@@ -8,3 +8,7 @@ A curated list of all things awesome
 ## Software
 
 - For licensing a repo with both data ang code, Git recommends [following the pattern shown here](https://github.com/github/choosealicense.com#license).
+
+## APIs
+
+- List recent revisions to Wikipedia: https://en.wikipedia.org/w/api.php?action=query&list=allrevisions&arvlimit=500
